@@ -1,0 +1,3 @@
+[submodule "packages/devlover/craftable-surveyjs"]
+	path = packages/devlover/craftable-surveyjs
+	url = https://github.com/devlover-xyz/craftable-surveyjs.git
